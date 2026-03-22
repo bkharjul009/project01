@@ -1,0 +1,9 @@
+{
+	"name": "dfbkfac",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "42e3f319-2bd4-4883-ac56-4a6fa707c9c8",
+		"tenantId": "0f42cc5a-f87d-4a2e-a212-19013d00f986"
+	}
+}
